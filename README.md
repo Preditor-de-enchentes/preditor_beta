@@ -1,5 +1,5 @@
 # preditor
 Blumenau Flood predictor frontend POC
-[widget](Screenshot.jpg)
+![widget](Screenshot.jpg =250x)
 
 
