@@ -3,8 +3,4 @@ Blumenau Flood predictor frontend POC.
 
 Widget POC:
 
-
-
-![widget,20%](Screenshot.jpg)
-
-
+<img src="Screenshot.jpg" alt="" width="30%" height="30%">
